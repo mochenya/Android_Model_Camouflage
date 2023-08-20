@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.3
-versionCode=15
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=Android_Model_Camouflage
+name=Android Model Camouflage
+version=v1.0
+versionCode=1
+author=MoChenYa
+description=Change your phone to any model
